@@ -1,7 +1,6 @@
-## Title:
 # AnaVerse 2.0 — Temporal & Sensor-Based Anomaly Detection
 
-This repository contains my final solution for the AnaVerse 2.0 Kaggle Hiring Challenge, where the goal was to detect anomalies in energy manufacturing plant sensor data using machine-learning models.
+This repository contains my final competition solution for the AnaVerse 2.0 Kaggle Hiring Challenge, focused on detecting anomalies in industrial sensor data using Random Forest and temporal feature engineering.
 
 - Final Score: 0.8337 (F1)
 - Final Rank: Top-20
@@ -71,5 +70,5 @@ You can access the dataset directly from Kaggle:
 - Top-20 finish in competitive hiring challenge
 - Heavy class-imbalance handling
 - Advanced threshold tuning
-- Ensemble experimentation
+- Model ensembling experiments
 - Production-ready ML workflow
